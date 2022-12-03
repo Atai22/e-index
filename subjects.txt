@@ -1,0 +1,11 @@
+Biology
+15
+
+Maths
+30
+
+Informatics
+25
+
+Physics
+5
