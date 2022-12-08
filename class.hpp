@@ -9,20 +9,20 @@ using namespace std;
 class Student
 {
 	public:
-	Student(std::string, std::string,unsigned short ,unsigned short,unsigned short);
+	Student(std::string, std::string, unsigned short, unsigned short, unsigned short);
 	std::string name;
 	std::string surname;
-	unsigned short  practicePoints;
+	unsigned short practicePoints;
 	unsigned short testsPoints;
 	unsigned short examPoints;
 	bool access; 
-
-} ;
+};
 
 //class for subject
 class Subject
 {
 	public:
+	Subject(std::string);
 	std::string name;
 	std::vector<Student>studentlist;
 	int pointForAccess;

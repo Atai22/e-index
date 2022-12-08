@@ -1,4 +1,2 @@
-Biology
-Kirill 	Eb	30	48	35
-Atay Pi 	20 	58 	37
-Polina Chem 	20	40	30
+Jan Dulak 30 20 45 A
+Atai Ruslanov 30 40 30 A

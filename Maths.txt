@@ -1,5 +1,2 @@
-Maths
-Kirill Eb	55	25	65
-Atay Pi 	25 	59 	47
-Polina Chem 	28	41	20
-
+Atai Ruslanov 25 45 30 A
+Styd Sdti 20 20 20 D
